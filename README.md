@@ -1,0 +1,1 @@
+Some funny **jQuery** JS library exercises.

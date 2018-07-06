@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+#box{
+    background-color: orange;
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+    line-height: 250px;
+}
+
+.thing{
+    background-color: lightslategray;
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+    line-height: 250px;
+    border-top-right-radius: 250px;
+}
+
+button{
+    background-color: purple;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: solid 2px black;
+}
+
+button:hover{
+    cursor: pointer;
+}

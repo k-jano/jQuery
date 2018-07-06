@@ -1,0 +1,1 @@
+Basic syntax of **jQuery** so far.
