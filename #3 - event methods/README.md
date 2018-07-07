@@ -1,0 +1,1 @@
+Some jQuery events method.

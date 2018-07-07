@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+#box{
+    width: 250px;
+    height: 250px;
+    background-color: darkkhaki;
+    line-height: 250px;
+    margin: 0 auto;
+}
