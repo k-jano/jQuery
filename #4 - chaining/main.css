@@ -1,0 +1,15 @@
+.note-bar{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.note-bar a{
+    color: #e42;
+}
